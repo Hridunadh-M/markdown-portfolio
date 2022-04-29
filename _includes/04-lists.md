@@ -5,7 +5,7 @@ a list my favorite things:
   *👶
   *🍫
   *✈
-hobbies
+hobbie
 -💻
 
 in order,these are my favorite flavors of ice cream: 
